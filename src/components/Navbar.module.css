@@ -1,0 +1,16 @@
+.nav{
+    grid-area: n;
+    background-color: antiquewhite;
+    }
+
+    .item
+    {
+        font-family: "Times New Roman", Georgia, Serif;
+    }
+
+    .item.active
+    {
+        font-family: "Times New Roman", Georgia, Serif;
+        color: green
+    }
+

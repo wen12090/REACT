@@ -1,0 +1,13 @@
+.content{
+
+  grid-area: c;
+  background-color:whitesmoke;
+}
+
+.tiger img{
+  width: 100%;
+}
+.item
+{
+    font-family: "Times New Roman", Georgia, Serif;
+}
